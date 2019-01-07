@@ -1,0 +1,54 @@
+#pad-top icon {
+}
+
+#pad-top .fa {
+  color:rgb(0,145,62);
+  padding:30px 30px 30px 30px;
+  border-radius:100%;
+  border:2px solid rgb(0,145,62);
+}
+
+#pad-top p {
+  padding-top:10%;
+  font-style:oblique;
+  font-weight:500;
+  font-family:initial;
+  color:black;
+}
+
+#SectFixed .fa {
+  padding-right:15px;
+  font-size:16px;
+  color:red;
+  font-size:20px;
+}
+
+.article-list img {
+  height:50vh;
+  box-shadow:5px 5px 5px grey;
+}
+
+.article-list h4 {
+  text-align:center;
+  padding-top:2%;
+  font-family:'Rubik';
+  color:#ff1f00;
+}
+
+/*  */
+
+#shadowMas {
+  box-shadow: 5px 5px rgba(128, 128, 128, 0.24);
+}
+.product-wrap {
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.product-info {
+  padding: 20px;
+}
+.product-info h3 {
+  color: green;
+  font-family: leela;
+}
+
